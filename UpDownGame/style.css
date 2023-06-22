@@ -1,0 +1,16 @@
+body{
+    background-image: url('laputa.jpg');
+}
+#info_part{
+    /*정중앙 정렬*/
+    position:absolute;
+    left: 50%;
+    top:50%;
+    transform:translate(-50%, -50%);
+    
+    text-align: center;
+    padding: 50px;
+
+    border-radius: 10%;
+    background-color: rgb(244,247,238);
+}
