@@ -1,1 +1,2 @@
-# JavaScriptPractice
+## JavaScript Practice
+### UpdownGame
